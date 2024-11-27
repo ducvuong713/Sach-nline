@@ -1,0 +1,112 @@
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\LeDucVuong.SachOnline.dll.config
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\LeDucVuong.SachOnline.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\LeDucVuong.SachOnline.pdb
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csc.exe
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csc.exe.config
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csc.rsp
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csi.exe
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csi.exe.config
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csi.rsp
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.AppContext.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Console.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.IO.Compression.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.IO.FileSystem.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Net.Sockets.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.ValueTuple.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Xml.XPath.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\vbc.exe
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\vbc.exe.config
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\vbc.rsp
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\VBCSCompiler.exe
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\obj\Release\LeDucVuong.SachOnline.csproj.AssemblyReference.cache
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\obj\Release\LeDucVuong.SachOnline.csproj.CoreCompileInputs.cache
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\obj\Release\LeDucVuo.E814C477.Up2Date
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\obj\Release\LeDucVuong.SachOnline.dll
+E:\Võ Quốc Lương\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\obj\Release\LeDucVuong.SachOnline.pdb
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\LeDucVuong.SachOnline.dll.config
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\LeDucVuong.SachOnline.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\LeDucVuong.SachOnline.pdb
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csc.exe
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csc.exe.config
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csc.rsp
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csi.exe
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csi.exe.config
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\csi.rsp
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.AppContext.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Console.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\vbc.exe
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\vbc.exe.config
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\vbc.rsp
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\obj\Release\LeDucVuong.SachOnline.csproj.AssemblyReference.cache
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\obj\Release\LeDucVuong.SachOnline.csproj.CoreCompileInputs.cache
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\obj\Release\LeDucVuo.E814C477.Up2Date
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\obj\Release\LeDucVuong.SachOnline.dll
+C:\Users\thamt\OneDrive\Máy tính\LeDucVuong.SachOnline (1)\LeDucVuong.SachOnline\LeDucVuong.SachOnline\obj\Release\LeDucVuong.SachOnline.pdb

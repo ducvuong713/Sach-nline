@@ -1,0 +1,651 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\views\\leducvuonghome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\views\\leducvuonghome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|c:\\users\\thamt\\onedrive\\m\u00E1y t\u00EDnh\\leducvuong.sachonline (1)\\leducvuong.sachonline\\leducvuong.sachonline\\areas\\leducvuongadmin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\sachonline\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\sachonline\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\sachonline\\trangtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\sachonline\\trangtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\controllers\\sachonlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\controllers\\sachonlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\controllers\\sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\views\\sach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\views\\sach\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\views\\sach\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\views\\sach\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\views\\sach\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\views\\sach\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\views\\sach\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\views\\sach\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\controllers\\leducvuonghomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\controllers\\leducvuonghomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\controllers\\chudecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\controllers\\chudecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\leducvuongadminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\leducvuongadminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\chudenxbpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\chudenxbpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\partialnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\partialnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\sachonline\\sachtheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\sachonline\\sachtheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\sachonline\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\sachonline\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\sachbannhieupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\sachbannhieupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\sachonline\\sachtheonxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\sachonline\\sachtheonxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\chudepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\chudepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\loadchildmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\loadchildmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\loginlogoutpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\loginlogoutpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\views\\shared\\partialslider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\views\\shared\\partialslider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\controllers\\trangtincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\controllers\\trangtincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\views\\leducvuonghome\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\views\\leducvuonghome\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\leducvuong.sachonline\\areas\\leducvuongadmin\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0FC50D-75AC-40D6-96D7-C8911FADBB91}|LeDucVuong.SachOnline\\LeDucVuong.SachOnline.csproj|solutionrelative:leducvuong.sachonline\\areas\\leducvuongadmin\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Index.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T06:08:51.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T00:23:05.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:15:42.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrangTin.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\SachOnline\\TrangTin.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\SachOnline\\TrangTin.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\SachOnline\\TrangTin.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\SachOnline\\TrangTin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:13:24.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SachOnlineController.cs",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Controllers\\SachOnlineController.cs",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Controllers\\SachOnlineController.cs",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Controllers\\SachOnlineController.cs",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Controllers\\SachOnlineController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwIgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:16:45.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:49:47.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\SachOnline\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\SachOnline\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\SachOnline\\Index.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\SachOnline\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:13:06.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\LeDucVuongHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\LeDucVuongHome\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\LeDucVuongHome\\Index.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\LeDucVuongHome\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T00:50:46.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SachController.cs",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\SachController.cs",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\SachController.cs",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\SachController.cs",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\SachController.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAADwv8AAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:10:19.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Edit.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Edit.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T06:09:44.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Delete.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T06:09:30.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietSach.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\ChiTietSach.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\ChiTietSach.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\ChiTietSach.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\Sach\\ChiTietSach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T06:09:27.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChuDeController.cs",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\ChuDeController.cs",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\ChuDeController.cs",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\ChuDeController.cs",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\ChuDeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:06:28.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-25T06:07:18.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChiTietSach.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\SachOnline\\ChiTietSach.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\SachOnline\\ChiTietSach.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\SachOnline\\ChiTietSach.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\SachOnline\\ChiTietSach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:13:03.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeDucVuongAdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\LeDucVuongAdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\LeDucVuongAdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\LeDucVuongAdminAreaRegistration.cs",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\LeDucVuongAdminAreaRegistration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:05:23.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeDucVuongHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\LeDucVuongHomeController.cs",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\LeDucVuongHomeController.cs",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\LeDucVuongHomeController.cs",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\LeDucVuongHomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:02:36.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T05:59:15.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Web.config",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Web.config",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Web.config",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAADQAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-25T03:52:50.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:49:50.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:49:50.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "font-awesome.css",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T05:59:14.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SachTheoChuDe.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\SachOnline\\SachTheoChuDe.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\SachOnline\\SachTheoChuDe.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\SachOnline\\SachTheoChuDe.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\SachOnline\\SachTheoChuDe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:12:43.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChuDeNXBPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\ChuDeNXBPartial.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\ChuDeNXBPartial.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\ChuDeNXBPartial.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\ChuDeNXBPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:10:44.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PartialNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\PartialNav.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\PartialNav.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\PartialNav.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\PartialNav.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIAwwCUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:11:15.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:10:55.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\web.config",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\web.config",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\web.config",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-25T01:03:56.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SachBanNhieuPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\SachBanNhieuPartial.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\SachBanNhieuPartial.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\SachBanNhieuPartial.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\SachBanNhieuPartial.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:11:24.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SachTheoNXB.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\SachOnline\\SachTheoNXB.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\SachOnline\\SachTheoNXB.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\SachOnline\\SachTheoNXB.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\SachOnline\\SachTheoNXB.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:13:20.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:11:51.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FooterPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\FooterPartial.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\FooterPartial.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\FooterPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:11:00.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GioHangPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\GioHangPartial.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\GioHangPartial.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\GioHangPartial.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\GioHangPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:11:03.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChuDePartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\ChuDePartial.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\ChuDePartial.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\ChuDePartial.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\ChuDePartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:10:49.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoadChildMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\LoadChildMenu.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\LoadChildMenu.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\LoadChildMenu.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\LoadChildMenu.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:11:05.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginLogoutPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\LoginLogoutPartial.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\LoginLogoutPartial.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\LoginLogoutPartial.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\LoginLogoutPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:11:09.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PartialSlider.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\PartialSlider.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Views\\Shared\\PartialSlider.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Views\\Shared\\PartialSlider.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Views\\Shared\\PartialSlider.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:11:22.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\LeDucVuongHome\\Login.cshtml",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\LeDucVuongHome\\Login.cshtml",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\LeDucVuongHome\\Login.cshtml",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Views\\LeDucVuongHome\\Login.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAIBZwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:11:50.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TrangTinController.cs",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\TrangTinController.cs",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\TrangTinController.cs",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\TrangTinController.cs",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\TrangTinController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:03:34.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\thamt\\OneDrive\\M\u00E1y t\u00EDnh\\LeDucVuong.SachOnline (1)\\LeDucVuong.SachOnline\\LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "LeDucVuong.SachOnline\\Areas\\LeDucVuongAdmin\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAowCABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:23:46.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

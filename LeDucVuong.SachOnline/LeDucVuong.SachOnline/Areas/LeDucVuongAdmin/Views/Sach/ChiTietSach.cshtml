@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "ChiTietSach";
+    Layout = "~/Areas/LeDucVuongAdmin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="thumbnail">
+    <div style="background: linear-gradient(to bottom, #6699FF, #ffffff); text-align: center; padding: 10px 0;">
+        <h4 style="color: red; font-size: 20px;font-weight: bold">
+            @Model.TenSach
+        </h4>
+    </div>
+
+    <img src="~/Images/@Model.AnhBia" alt="@Model.TenSach" class="img-responsive img-rounded imgbook" style="width: 200px;">
+
+
+
+    <div class="motasach">
+        <p>
+            @Html.Raw(@Model.MoTa.ToString().Replace("\n", "<p><p>&nbsp;&nbsp;&nbsp;&nbsp;"))
+        </p>
+    </div>
+    <div class="container" style="text-align: right; width: 100%;">
+        <div style="display: inline-block; text-align: center;">
+            <p class="ngaycapnhat" font-weight : bold>
+                Ngày cập nhật: @Html.FormatValue(@Model.NgayCapNhat, "{0:dd/MM/yyyy}")
+            </p>
+
+            <p class="giaban" style=" font-weight: bold ">
+                Giá bán:
+                <span class="price" style="color: blue; font-weight: bold; font-size: 25px;">
+                    @Html.FormatValue(@Model.GiaBan, "{0:#,##0}") VND
+                </span>
+            </p>
+
+            <p class="addtocard ">
+                <a href="@Url.Action("ThemGioHang","GioHang", new { id = Model.MaSach, url = Request.Url.ToString() })"
+                   class="btn btn-primary" role="button">
+                    <span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>
+                    Add to Cart
+                </a>
+            </p>
+        </div>
+    </div>
+</div>

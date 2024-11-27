@@ -1,0 +1,39 @@
+﻿@model LeDucVuong.SachOnline.Models.NHAXUATBAN
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+
+    <form name="CapNhatNhaXuatBan" action="~/NHAXUATBAN/Edit" method="post">
+        <h3>Cập nhật nhà xuất bản</h3>
+        <input type="hidden" name="MaNXB" value="@Model.MaNXB" />
+        <table>
+            <tr>
+                <td>Tên nhà xuất bản</td>
+                <td><input type="text" name="TenNXB" value="@Model.TenNXB" /></td>
+            </tr>
+            <tr>
+                <td>Địa chỉ</td>
+                <td><input type="text" name="DiaChi" value="@Model.DiaChi" /></td>
+            </tr>
+            <tr>
+                <td>Điện thoại</td>
+                <td><input type="text" name="DienThoai" value="@Model.DienThoai" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Lưu" /></td>
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>

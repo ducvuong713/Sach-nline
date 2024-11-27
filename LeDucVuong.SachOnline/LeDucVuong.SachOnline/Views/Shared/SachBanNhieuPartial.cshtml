@@ -1,0 +1,32 @@
+﻿@model IEnumerable<LeDucVuong.SachOnline.Models.SACH>
+
+<div class="container">
+    <h2 class="text-center">SÁCH BÁN NHIỀU</h2>
+    <div class="row">
+        @foreach (var sach in Model)
+        {
+            <div class="col-lg-6 col-md-6 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="row no-gutters">
+                        <div class="col-md-4 d-flex align-items-center justify-content-center" style="margin-bottom: 20px;">
+                            <img src="~/Images/@sach.AnhBia" alt="@sach.TenSach" class="img- responsive img-rounded imgbook" style="width: 80%; height: auto;">
+                        </div>
+
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title" style="min-height: 20px; font-weight: bold;">
+                                    <a href="@Url.Action("ChiTietSach", "SachOnline", new { id = sach.MaSach })" class="text-decoration-none text-dark">
+                                        @sach.TenSach
+                                    </a>
+                                </h5>
+                                <p class="card-text text-muted" style="max-height: 120px; overflow: hidden; text-overflow: ellipsis;">
+                                    @sach.MoTa
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

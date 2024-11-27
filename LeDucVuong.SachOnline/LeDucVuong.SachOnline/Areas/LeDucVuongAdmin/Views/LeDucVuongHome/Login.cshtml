@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Login</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="@Url.Content("~/images/icons/favicon.ico")" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendor/bootstrap/css/bootstrap.min.css")">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/fonts/font-awesome-4.7.0/css/font-awesome.min.css")">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/fonts/Linearicons-Free-v1.0.0/icon-font.min.css")">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendor/animate/animate.css")">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendor/css-hamburgers/hamburgers.min.css")">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendor/animsition/css/animsition.min.css")">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendor/select2/select2.min.css")">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendor/daterangepicker/daterangepicker.css")">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/css/util.css")">
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/css/main.css")">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+</head>
+<body>
+
+
+    <div class="limiter">
+        <div class="container-login100" style="background-image: url('@Url.Content("~/images/bg-01.jpg")');">
+            <div class="wrap-login100 p-l-110 p-r-110 p-t-62 p-b-33">
+                <form class="login100-form validate-form flex-sb flex-w" method="post" action="@Url.Action("Login", "LeDucVuongHome")">
+                    <span class="login100-form-title p-b-53">Đăng Nhập Với</span>
+
+                    <a href="#" class="btn-face m-b-20">
+                        <i class="fa fa-facebook-official"></i> Facebook
+                    </a>
+
+                    <a href="#" class="btn-google m-b-20">
+                        <img src="@Url.Content("~/images/icons/icon-google.png")" alt="GOOGLE"> Google
+                    </a>
+
+                    <div class="p-t-31 p-b-9">
+                        <span class="txt1">Tên đăng nhập</span>
+                    </div>
+                    <div class="wrap-input100 validate-input" data-validate="Tên đăng nhập là bắt buộc">
+                        @Html.TextBox("UserName", null, new { @class = "input100", placeholder = "Tên đăng nhập / Email", required = "required" })
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <div class="p-t-13 p-b-9">
+                        <span class="txt1">Mật khẩu</span>
+                        <a href="#" class="txt2 bo1 m-l-5">Quên mật khẩu?</a>
+                    </div>
+                    <div class="wrap-input100 validate-input" data-validate="Mật khẩu là bắt buộc">
+                        @Html.Password("Password", null, new { @class = "input100", placeholder = "Mật khẩu", required = "required" })
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <div class="container-login100-form-btn m-t-17">
+                        <button class="login100-form-btn">Đăng Nhập</button>
+                    </div>
+
+                    <div class="w-full text-center p-t-55">
+                        <span class="txt2">Chưa có tài khoản?</span>
+                        <a href="#" class="txt2 bo1">Đăng ký ngay</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script>
+$(document).ready(function() {
+    toastr.options = {
+        "closeButton": true,
+        "progressBar": true,
+        "positionClass": "toast-top-right",
+        "timeOut": "5000",
+        "showDuration": "300",
+        "hideDuration": "1000",
+        "extendedTimeOut": "1000"
+    };
+
+    // Hiển thị thông báo nếu có trong TempData
+    @if (TempData["ThongBao"] != null)
+    {
+        string message = TempData["ThongBao"].ToString();
+        bool isSuccess = (bool)TempData["IsSuccess"];
+
+        if (isSuccess)
+        {
+            <text>toastr.success('@message');</text>
+        }
+        else
+        {
+            <text>toastr.error('@message');</text>
+        }
+    }
+});
+    </script>
+
+
+
+
+
+
+    <div id="dropDownSelect1"></div>
+    <!--===============================================================================================-->
+    <script src="@Url.Content("~/vendor/jquery/jquery-3.2.1.min.js")"></script>
+    <!--===============================================================================================-->
+    <script src="@Url.Content("~/vendor/animsition/js/animsition.min.js")"></script>
+    <!--===============================================================================================-->
+    <script src="@Url.Content("~/vendor/bootstrap/js/popper.js")"></script>
+    <script src="@Url.Content("~/vendor/bootstrap/js/bootstrap.min.js")"></script>
+    <!--===============================================================================================-->
+    <script src="@Url.Content("~/vendor/select2/select2.min.js")"></script>
+    <!--===============================================================================================-->
+    <script src="@Url.Content("~/vendor/daterangepicker/moment.min.js")"></script>
+    <script src="@Url.Content("~/vendor/daterangepicker/daterangepicker.js")"></script>
+    <!--===============================================================================================-->
+    <script src="@Url.Content("~/vendor/countdowntime/countdowntime.js")"></script>
+    <!--===============================================================================================-->
+    <script src="@Url.Content("~/js/main.js")"></script>
+
+</body>
+</html>
